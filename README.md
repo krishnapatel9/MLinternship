@@ -1,4 +1,6 @@
 Machine Learning Concepts & Key Terminologies Explored
+
+Week 1
 1. Linear & Logistic Regression
 Key Terminologies:
 Linear Regression: Continuous prediction, MSE (Mean Squared Error), Gradient Descent, Hyperparameters (learning rate, epochs), Feature Scaling.
